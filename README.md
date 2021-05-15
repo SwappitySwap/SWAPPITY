@@ -1,0 +1,2 @@
+# SWAPPITY
+SWAPPITY ERC20 token
